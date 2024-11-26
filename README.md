@@ -14,4 +14,5 @@ It is used as a starting point for the course - issues will be fixed and code wi
 Several tests have been implemented already, some of which are currently failing.
 These failing tests set out the requirements for the additional code to be implemented during the workshop.
 
-The tests should be run using `unittest`, which will be introduced during the workshop.
+The tests should be run using `pytest`, which will be introduced during the workshop.
+
